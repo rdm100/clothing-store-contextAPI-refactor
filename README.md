@@ -4,9 +4,9 @@ Once cloned or downloaded, use npm install command in the terminal at root level
 
 ## Brief
 
-Create clothing store with basket to add and remove items as well as taking payments ContextAPI re-factor.
+Create clothing store with basket to add and remove items as well as taking payments, ContextAPI re-factor.
 
-Using React, Redux, Redux-Thunk for asynchronous action for shop data in redux, SASS, Firebase for authentication and storing shop data, Memoization for performance, stripe for payments, made components styled components and have added an animated loading spinner when the collection and collection preview pages load. Spinner can mostly be seen when refreshing collection or collection preview pages.
+Using React, Context API, SASS, Firebase for authentication and storing shop data, stripe for payments.
 
 # Project Title
 
@@ -17,10 +17,6 @@ Clothing store
 
 
 <img src="public/images/clothing-store2.png">
-
-## Running the tests
-
-In the terminal run npm test
 
 
 ## Built With
